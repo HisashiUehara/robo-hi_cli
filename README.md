@@ -33,6 +33,8 @@ Simply run:
 robo-hi
 ```
 
+![ROBO-HI Logo](assets/Screenshot%202025-07-06%20at%2010.53.56 PM.png)
+
 You will see a colorful ROBO-HI logo, some helpful tips, and an interactive prompt.
 
 ## Customization
