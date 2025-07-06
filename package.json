@@ -1,0 +1,16 @@
+{
+  "name": "robo-hi",
+  "version": "1.0.0",
+  "description": "ROBO-HI CLI tool",
+  "main": "cli.js",
+  "bin": {
+    "robo-hi": "./cli.js"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^8.2.4"
+  }
+}
